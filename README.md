@@ -1,2 +1,9 @@
 # Canny-Edge-Detection
-## This is a coding challenge that was given by FARO technologies.I completed an application that performs full canny edge detection on videos in 7 days. 
+
+This is a coding challende given to me by FARO technologies. I created an application that preforms full canny edge
+detection on  video.
+
+## Getting Started
+
+All you need to know is in the doc directory. There's a readme.pdf that has everything documented. Enjoy :p
+
